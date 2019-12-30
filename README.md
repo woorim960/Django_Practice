@@ -1,2 +1,2 @@
-# coding_test
+# Django_Practice
  Personal coding practice space.
